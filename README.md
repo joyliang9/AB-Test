@@ -14,3 +14,6 @@ Spain and LatAm country manager suggested that one reason could be translation. 
 After they run the test however, they are really surprised cause the test is negative. I.e., it appears that the non-localized translation was doing better!
 * Confirm if the test is actually negative. That is, it appears that the old version of the site with just one translation across Spain and LatAm performs better
 * Explain why that might be happening. Are the localized translations really worse?
+
+## Methods Used
+* Hypothesis Test
